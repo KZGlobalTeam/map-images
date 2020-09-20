@@ -1,7 +1,7 @@
 #!/bin/bash
 
-OUTPUT="./public/MAPS.md"
-PUBLIC_PATH="https://bitbucket.org/kztimerglobalteam/map-images/raw/master"
+OUTPUT="./public/README.md"
+PUBLIC_PATH="https://github.com/KZGlobalTeam/map-images/raw/public"
 
 append_md () {
     echo "$1" >> $OUTPUT

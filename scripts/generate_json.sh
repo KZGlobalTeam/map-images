@@ -2,7 +2,7 @@
 
 OUTPUT="./public/maps.json"
 OUTPUT_MIN="./public/maps.min.json"
-PUBLIC_PATH="https://bitbucket.org/kztimerglobalteam/map-images/raw/master"
+PUBLIC_PATH="https://github.com/KZGlobalTeam/map-images/raw/public"
 
 # https://stackoverflow.com/a/26759734
 if ! [ -x "$(command -v jq)" ]; then
