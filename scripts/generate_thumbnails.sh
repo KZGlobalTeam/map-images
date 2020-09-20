@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT="./thumbnails"
+OUTPUT="./public/thumbnails"
 
 rm -r "$OUTPUT"
 mkdir -p "$OUTPUT"

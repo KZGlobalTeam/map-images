@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT="MAPS.md"
+OUTPUT="./public/MAPS.md"
 PUBLIC_PATH="https://bitbucket.org/kztimerglobalteam/map-images/raw/master"
 
 append_md () {
@@ -20,7 +20,7 @@ append_md "|-----|-----------|------------|----------------|-----------|--------
 shopt -s nullglob
 shopt -s nocaseglob
 
-for file in thumbnails/*.{jpg,jpeg,png,gif}
+for file in ./public/thumbnails/*.{jpg,jpeg,png,gif}
 do
     name=$(basename -- "$file")
     append_md "|${name%.*}|![$name]($PUBLIC_PATH/webp/thumb/${name%.*}.webp)|[image]($PUBLIC_PATH/images/$name)|[thumbnail]($PUBLIC_PATH/thumbnails/$name)|[webp]($PUBLIC_PATH/webp/${name%.*}.webp)|[thumbnail]($PUBLIC_PATH/webp/thumb/${name%.*}.webp)|"

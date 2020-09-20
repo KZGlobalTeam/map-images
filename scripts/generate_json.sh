@@ -1,7 +1,7 @@
 #!/bin/bash
 
-OUTPUT="maps.json"
-OUTPUT_MIN="maps.min.json"
+OUTPUT="./public/maps.json"
+OUTPUT_MIN="./public/maps.min.json"
 PUBLIC_PATH="https://bitbucket.org/kztimerglobalteam/map-images/raw/master"
 
 # https://stackoverflow.com/a/26759734

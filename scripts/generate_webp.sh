@@ -1,8 +1,10 @@
 #!/bin/bash
 
-OUTPUT="./webp"
+OUTPUT="./public/webp"
 
-rm -r "$OUTPUT"
+if [ -d "$OUTPUT" ]; then
+    rm -r "$OUTPUT"
+fi
 mkdir -p "$OUTPUT/thumb"
 
 shopt -s nullglob
@@ -11,7 +13,6 @@ shopt -s nocaseglob
 for file in ./images/*.{jpg,jpeg,png,gif}
 do
     name=$(basename -- "$file")
-    # STR+="{\"name\": \"$name\", \"src\": \"$file\"},"
     echo "Generating webp for $name"
     gm convert -quality 50 "$file" "$OUTPUT/${name%.*}.webp"
     gm convert -quality 50 -thumbnail 200 "$file" "$OUTPUT/thumb/${name%.*}.webp"
