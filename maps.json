@@ -1,10 +1,10 @@
 [
   {
-    "name": "bkz_apricity",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_apricity.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_apricity.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_apricity.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_apricity.webp"
+    "name": "bkz_apricity_v3",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_apricity_v3.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_apricity_v3.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_apricity_v3.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_apricity_v3.webp"
   },
   {
     "name": "bkz_blackrockshooter_vzp",
@@ -19,6 +19,13 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_bonus_z1.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_bonus_z1.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_bonus_z1.webp"
+  },
+  {
+    "name": "bkz_cakewalk",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_cakewalk.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_cakewalk.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_cakewalk.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_cakewalk.webp"
   },
   {
     "name": "bkz_cauz_final",
@@ -126,11 +133,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_iota_v3.webp"
   },
   {
-    "name": "bkz_levite_ng",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_levite_ng.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_levite_ng.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_levite_ng.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_levite_ng.webp"
+    "name": "bkz_levite_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_levite_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_levite_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_levite_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_levite_v2.webp"
   },
   {
     "name": "bkz_lewlysex",
@@ -154,11 +161,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_measure2_b03.webp"
   },
   {
-    "name": "bkz_nocturns_blue",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_nocturns_blue.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_nocturns_blue.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_nocturns_blue.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_nocturns_blue.webp"
+    "name": "bkz_nocturns_blue_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_nocturns_blue_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_nocturns_blue_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_nocturns_blue_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_nocturns_blue_gfix.webp"
   },
   {
     "name": "bkz_sahara",
@@ -166,20 +173,6 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_sahara.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_sahara.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_sahara.webp"
-  },
-  {
-    "name": "bkz_synergy_ez",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_synergy_ez.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_synergy_ez.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_synergy_ez.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_synergy_ez.webp"
-  },
-  {
-    "name": "bkz_synergy_x",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/bkz_synergy_x.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/bkz_synergy_x.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/bkz_synergy_x.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_synergy_x.webp"
   },
   {
     "name": "bkz_underground_crypt_v3",
@@ -245,11 +238,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_4u_nature.webp"
   },
   {
-    "name": "kz_7in1_go",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_7in1_go.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_7in1_go.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_7in1_go.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_7in1_go.webp"
+    "name": "kz_7in1",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_7in1.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_7in1.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_7in1.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_7in1.webp"
   },
   {
     "name": "kz_abandoned",
@@ -280,11 +273,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_adventure.webp"
   },
   {
-    "name": "kz_aether",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_aether.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_aether.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_aether.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_aether.webp"
+    "name": "kz_aether_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_aether_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_aether_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_aether_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_aether_fix.webp"
   },
   {
     "name": "kz_after_agitation_easy_fix",
@@ -315,11 +308,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ahful.webp"
   },
   {
-    "name": "kz_akrh_warehouse",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_akrh_warehouse.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_akrh_warehouse.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_akrh_warehouse.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_akrh_warehouse.webp"
+    "name": "kz_akrh_warehouse_v2_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_akrh_warehouse_v2_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_akrh_warehouse_v2_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_akrh_warehouse_v2_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_akrh_warehouse_v2_gfix.webp"
   },
   {
     "name": "kz_alfie",
@@ -448,11 +441,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_azure.webp"
   },
   {
-    "name": "kz_babycat",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_babycat.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_babycat.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_babycat.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_babycat.webp"
+    "name": "kz_babycat_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_babycat_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_babycat_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_babycat_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_babycat_fix.webp"
   },
   {
     "name": "kz_bacho",
@@ -462,11 +455,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bacho.webp"
   },
   {
-    "name": "kz_bananaysoda",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bananaysoda.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bananaysoda.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bananaysoda.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bananaysoda.webp"
+    "name": "kz_bananaysoda_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bananaysoda_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bananaysoda_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bananaysoda_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bananaysoda_v2.webp"
   },
   {
     "name": "kz_basicnoon",
@@ -504,11 +497,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_betterdunjun.webp"
   },
   {
-    "name": "kz_bhop_badg3s",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bhop_badg3s.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bhop_badg3s.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bhop_badg3s.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bhop_badg3s.webp"
+    "name": "kz_bhop_badges3",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bhop_badges3.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bhop_badges3.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bhop_badges3.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bhop_badges3.webp"
   },
   {
     "name": "kz_bhop_benchmark",
@@ -609,11 +602,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bionic.webp"
   },
   {
-    "name": "kz_bir_dont",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bir_dont.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bir_dont.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bir_dont.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bir_dont.webp"
+    "name": "kz_bir_dont_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bir_dont_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bir_dont_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bir_dont_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bir_dont_fix.webp"
   },
   {
     "name": "kz_blackness",
@@ -658,11 +651,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bluehop_mq.webp"
   },
   {
-    "name": "kz_bluerace_v1",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bluerace_v1.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bluerace_v1.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bluerace_v1.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bluerace_v1.webp"
+    "name": "kz_bluerace_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bluerace_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bluerace_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bluerace_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bluerace_v2.webp"
   },
   {
     "name": "kz_breezeblocks",
@@ -700,13 +693,6 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cabin.webp"
   },
   {
-    "name": "kz_cakewalk",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_cakewalk.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_cakewalk.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_cakewalk.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cakewalk.webp"
-  },
-  {
     "name": "kz_camembert",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_camembert.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_camembert.jpg",
@@ -742,11 +728,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cascade_v3.webp"
   },
   {
-    "name": "kz_castlehops",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_castlehops.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_castlehops.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_castlehops.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_castlehops.webp"
+    "name": "kz_castle_hops",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_castle_hops.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_castle_hops.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_castle_hops.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_castle_hops.webp"
   },
   {
     "name": "kz_cataclysm",
@@ -756,11 +742,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cataclysm.webp"
   },
   {
-    "name": "kz_catalyst",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_catalyst.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_catalyst.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_catalyst.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_catalyst.webp"
+    "name": "kz_catalyst_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_catalyst_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_catalyst_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_catalyst_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_catalyst_gfix.webp"
   },
   {
     "name": "kz_catharsis_global",
@@ -1043,11 +1029,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cyb_adrenaline_fix.webp"
   },
   {
-    "name": "kz_cyberspace",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_cyberspace.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_cyberspace.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_cyberspace.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cyberspace.webp"
+    "name": "kz_cyberspace_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_cyberspace_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_cyberspace_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_cyberspace_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_cyberspace_fix.webp"
   },
   {
     "name": "kz_dakow",
@@ -1281,11 +1267,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ephemeral.webp"
   },
   {
-    "name": "kz_epiphany",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_epiphany.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_epiphany.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_epiphany.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_epiphany.webp"
+    "name": "kz_epiphany_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_epiphany_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_epiphany_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_epiphany_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_epiphany_v2.webp"
   },
   {
     "name": "kz_epusbridge",
@@ -1386,11 +1372,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_failed_fastrun_rt.webp"
   },
   {
-    "name": "kz_farm",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_farm.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_farm.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_farm.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_farm.webp"
+    "name": "kz_farm_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_farm_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_farm_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_farm_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_farm_v2.webp"
   },
   {
     "name": "kz_fas2map",
@@ -1680,11 +1666,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_goodluck_p.webp"
   },
   {
-    "name": "kz_goquicklol_f",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_goquicklol_f.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_goquicklol_f.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_goquicklol_f.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_goquicklol_f.webp"
+    "name": "kz_goquicklol_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_goquicklol_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_goquicklol_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_goquicklol_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_goquicklol_v2.webp"
   },
   {
     "name": "kz_grass_hard",
@@ -1727,6 +1713,13 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_haki_v2.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_haki_v2.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_haki_v2.webp"
+  },
+  {
+    "name": "kz_halicarnassus_fs",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_halicarnassus_fs.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_halicarnassus_fs.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_halicarnassus_fs.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_halicarnassus_fs.webp"
   },
   {
     "name": "kz_haste",
@@ -1785,13 +1778,6 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_highland.webp"
   },
   {
-    "name": "kz_hightech",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_hightech.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_hightech.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_hightech.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_hightech.webp"
-  },
-  {
     "name": "kz_hikari_od",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_hikari_od.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_hikari_od.jpg",
@@ -1806,18 +1792,18 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_hillside.webp"
   },
   {
+    "name": "kz_hitech",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_hitech.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_hitech.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_hitech.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_hitech.webp"
+  },
+  {
     "name": "kz_holyspace",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_holyspace.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_holyspace.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_holyspace.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_holyspace.webp"
-  },
-  {
-    "name": "kz_htc_purgatory",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_htc_purgatory.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_htc_purgatory.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_htc_purgatory.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_htc_purgatory.webp"
   },
   {
     "name": "kz_huber",
@@ -1841,11 +1827,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ickkck.webp"
   },
   {
-    "name": "kz_illusion",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_illusion.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_illusion.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_illusion.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_illusion.webp"
+    "name": "kz_illusion_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_illusion_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_illusion_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_illusion_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_illusion_gfix.webp"
   },
   {
     "name": "kz_iluvprok_global",
@@ -2023,11 +2009,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_kzse_aztectemple.webp"
   },
   {
-    "name": "kz_ladderhell",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_ladderhell.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_ladderhell.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_ladderhell.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ladderhell.webp"
+    "name": "kz_ladderhell_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_ladderhell_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_ladderhell_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_ladderhell_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ladderhell_fix.webp"
   },
   {
     "name": "kz_lavablock_global",
@@ -2086,11 +2072,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_longjumps_space.webp"
   },
   {
-    "name": "kz_lost_marketplace_v1",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_lost_marketplace_v1.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_lost_marketplace_v1.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_lost_marketplace_v1.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_lost_marketplace_v1.webp"
+    "name": "kz_lost_marketplace_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_lost_marketplace_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_lost_marketplace_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_lost_marketplace_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_lost_marketplace_gfix.webp"
   },
   {
     "name": "kz_lume",
@@ -2282,11 +2268,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_natureblock_go.webp"
   },
   {
-    "name": "kz_natureblock_sct",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_natureblock_sct.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_natureblock_sct.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_natureblock_sct.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_natureblock_sct.webp"
+    "name": "kz_natureblock_scte",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_natureblock_scte.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_natureblock_scte.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_natureblock_scte.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_natureblock_scte.webp"
   },
   {
     "name": "kz_neon_portal",
@@ -2296,11 +2282,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_neon_portal.webp"
   },
   {
-    "name": "kz_nightfall_fixed",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_nightfall_fixed.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_nightfall_fixed.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_nightfall_fixed.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_nightfall_fixed.webp"
+    "name": "kz_nightfall",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_nightfall.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_nightfall.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_nightfall.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_nightfall.webp"
   },
   {
     "name": "kz_nightmare_v2",
@@ -2464,11 +2450,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pianoclimb_go.webp"
   },
   {
-    "name": "kz_pineforest",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_pineforest.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_pineforest.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_pineforest.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pineforest.webp"
+    "name": "kz_pineforest_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_pineforest_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_pineforest_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_pineforest_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pineforest_v2.webp"
   },
   {
     "name": "kz_piranha",
@@ -2539,6 +2525,13 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_psytime_go.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_psytime_go.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_psytime_go.webp"
+  },
+  {
+    "name": "kz_purgatory",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_purgatory.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_purgatory.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_purgatory.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_purgatory.webp"
   },
   {
     "name": "kz_quadrablock",
@@ -2772,11 +2765,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_signs_v2.webp"
   },
   {
-    "name": "kz_simple",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_simple.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_simple.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_simple.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_simple.webp"
+    "name": "kz_simple_sp",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_simple_sp.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_simple_sp.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_simple_sp.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_simple_sp.webp"
   },
   {
     "name": "kz_simplejourney",
@@ -2842,11 +2835,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_purple_x.webp"
   },
   {
-    "name": "kz_slide_rov_od",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_slide_rov_od.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_slide_rov_od.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_rov_od.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_rov_od.webp"
+    "name": "kz_slide_rov_od_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_slide_rov_od_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_slide_rov_od_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_rov_od_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_rov_od_fix.webp"
   },
   {
     "name": "kz_slide_svn_extreme",
@@ -3024,6 +3017,20 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_symbiosis_final.webp"
   },
   {
+    "name": "kz_synergy_ez",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_synergy_ez.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_synergy_ez.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_synergy_ez.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_synergy_ez.webp"
+  },
+  {
+    "name": "kz_synergy_x",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_synergy_x.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_synergy_x.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_synergy_x.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_synergy_x.webp"
+  },
+  {
     "name": "kz_synthesis_v2",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_synthesis_v2.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_synthesis_v2.jpg",
@@ -3036,13 +3043,6 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_sz_goldenbean.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_sz_goldenbean.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_sz_goldenbean.webp"
-  },
-  {
-    "name": "kz_sz_halicarnassus",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_sz_halicarnassus.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_sz_halicarnassus.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_sz_halicarnassus.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_sz_halicarnassus.webp"
   },
   {
     "name": "kz_talltreeforest_v3",
@@ -3059,11 +3059,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_talmaniac.webp"
   },
   {
-    "name": "kz_techtonic",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_techtonic.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_techtonic.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_techtonic.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_techtonic.webp"
+    "name": "kz_techtonic_v2_ldr",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_techtonic_v2_ldr.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_techtonic_v2_ldr.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_techtonic_v2_ldr.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_techtonic_v2_ldr.webp"
   },
   {
     "name": "kz_terablock",
@@ -3346,11 +3346,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_ziggurath_final.webp"
   },
   {
-    "name": "kz_zoomer",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_zoomer.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_zoomer.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_zoomer.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_zoomer.webp"
+    "name": "kz_zoomer_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_zoomer_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_zoomer_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_zoomer_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_zoomer_fix.webp"
   },
   {
     "name": "kz_zxp_final4",
@@ -3395,11 +3395,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/skz_makalaka.webp"
   },
   {
-    "name": "skz_odious",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/skz_odious.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/skz_odious.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/skz_odious.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/skz_odious.webp"
+    "name": "skz_odious_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/skz_odious_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/skz_odious_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/skz_odious_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/skz_odious_v2.webp"
   },
   {
     "name": "skz_sati",
@@ -3507,11 +3507,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/xc_skycastle_go_b2.webp"
   },
   {
-    "name": "xc_supermario_go",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/xc_supermario_go.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/xc_supermario_go.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/xc_supermario_go.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/xc_supermario_go.webp"
+    "name": "xc_supermario_go_gfix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/xc_supermario_go_gfix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/xc_supermario_go_gfix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/xc_supermario_go_gfix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/xc_supermario_go_gfix.webp"
   },
   {
     "name": "xc_umbrella_global",
