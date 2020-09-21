@@ -16,7 +16,7 @@ jobs:
       run: sudo apt-get install graphicsmagick
 
     - name: Generate Public folder
-      run: ./gen_public.sh
+      run: ./build.sh
 
     - name: Deploy to Public branch
       uses: JamesIves/github-pages-deploy-action@3.5.9

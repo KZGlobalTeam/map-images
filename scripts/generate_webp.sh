@@ -14,7 +14,7 @@ for file in ./images/*.{jpg,jpeg,png,gif}
 do
     name=$(basename -- "$file")
     echo "Generating webp for $name"
-    gm convert -quality 50 "$file" "$OUTPUT/${name%.*}.webp"
+    gm convert -quality 80 "$file" "$OUTPUT/${name%.*}.webp"
     gm convert -quality 50 -thumbnail 200 "$file" "$OUTPUT/thumb/${name%.*}.webp"
 done
 
