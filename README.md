@@ -8,5 +8,5 @@ Various formats of the images will be available in the [public](https://github.c
 ## Contributing
 If you would like to add missing map images
 1. Fork this repo
-2. You can upload files directly to the `images` branch in your repo, or clone the repo and commit+push your changes
+2. You can upload files directly to the `images` folder in your repo, or clone the repo and commit+push your changes
 2. Create a pull request from your repo to my repo
