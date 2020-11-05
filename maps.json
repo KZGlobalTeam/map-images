@@ -784,11 +784,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bir_dont_fix.webp"
   },
   {
-    "name": "kz_birrita",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_birrita.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_birrita.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_birrita.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_birrita.webp"
+    "name": "kz_birrita_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_birrita_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_birrita_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_birrita_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_birrita_fix.webp"
   },
   {
     "name": "kz_blackness",
@@ -3101,11 +3101,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pharaoh_csgo.webp"
   },
   {
-    "name": "kz_pharos",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_pharos.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_pharos.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_pharos.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pharos.webp"
+    "name": "kz_pharos_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_pharos_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_pharos_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_pharos_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_pharos_fix.webp"
   },
   {
     "name": "kz_phaztec",
@@ -3402,11 +3402,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_roman.webp"
   },
   {
-    "name": "kz_rompenutrias",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_rompenutrias.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_rompenutrias.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_rompenutrias.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_rompenutrias.webp"
+    "name": "kz_rompenutrias_asheglado",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_rompenutrias_asheglado.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_rompenutrias_asheglado.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_rompenutrias_asheglado.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_rompenutrias_asheglado.webp"
   },
   {
     "name": "kz_rumzor",
@@ -3591,11 +3591,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_purple_x.webp"
   },
   {
-    "name": "kz_slide_rov_od_fix",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_slide_rov_od_fix.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_slide_rov_od_fix.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_rov_od_fix.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_rov_od_fix.webp"
+    "name": "kz_slide_rov_od_fix_final_v2",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_slide_rov_od_fix_final_v2.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_slide_rov_od_fix_final_v2.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_rov_od_fix_final_v2.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_slide_rov_od_fix_final_v2.webp"
   },
   {
     "name": "kz_slide_svn_extreme",
