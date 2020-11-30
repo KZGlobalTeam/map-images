@@ -714,6 +714,13 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bhop_icy_od.webp"
   },
   {
+    "name": "kz_bhop_koki_niwa",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bhop_koki_niwa.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bhop_koki_niwa.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_bhop_koki_niwa.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_bhop_koki_niwa.webp"
+  },
+  {
     "name": "kz_bhop_lj",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_bhop_lj.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_bhop_lj.jpg",
@@ -2450,13 +2457,6 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_kohze_sucks.webp"
   },
   {
-    "name": "kz_koki_niwa",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_koki_niwa.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_koki_niwa.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_koki_niwa.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_koki_niwa.webp"
-  },
-  {
     "name": "kz_kzinga_fixed",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_kzinga_fixed.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_kzinga_fixed.jpg",
@@ -3906,11 +3906,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_spiritblockv2.webp"
   },
   {
-    "name": "kz_splopkopsc_frickricky_v2",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_splopkopsc_frickricky_v2.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_splopkopsc_frickricky_v2.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_splopkopsc_frickricky_v2.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_splopkopsc_frickricky_v2.webp"
+    "name": "kz_splopkopsc_loverick_extreme",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_splopkopsc_loverick_extreme.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_splopkopsc_loverick_extreme.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_splopkopsc_loverick_extreme.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_splopkopsc_loverick_extreme.webp"
   },
   {
     "name": "kz_spores_go",
