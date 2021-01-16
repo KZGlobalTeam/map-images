@@ -1120,11 +1120,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_chloroplast.webp"
   },
   {
-    "name": "kz_choka",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_choka.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_choka.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_choka.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_choka.webp"
+    "name": "kz_choka_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_choka_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_choka_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_choka_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_choka_fix.webp"
   },
   {
     "name": "kz_chopchop",
@@ -4256,11 +4256,11 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_unmake.webp"
   },
   {
-    "name": "kz_variety_100tick_overhaul",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_variety_100tick_overhaul.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_variety_100tick_overhaul.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_variety_100tick_overhaul.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_variety_100tick_overhaul.webp"
+    "name": "kz_variety_fix",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_variety_fix.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_variety_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_variety_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_variety_fix.webp"
   },
   {
     "name": "kz_vci_apprentice",
