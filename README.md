@@ -1,5 +1,5 @@
 # MAP IMAGES
-> Thanks to Ocelot, Bacon for providing images
+> Thanks to Ocelot, Bacon, Mark, Syuks for providing images
 
 Actual map images will be located in the [images](./images) folder.
 
