@@ -7,7 +7,7 @@ Various formats of the images will be available in the [public](https://github.c
 
 ## Usage
 
-As stated above, the images you would likely use would be in the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch of this repository.
+As stated above, the images you would likely use the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch of this repository.
 
 That branch provides 2 JSON files (formatted and minified) consisting of all map links.
 
