@@ -2751,6 +2751,13 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_kzra_slidepuf.webp"
   },
   {
+    "name": "kz_kzra_stonebhop",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_kzra_stonebhop.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_kzra_stonebhop.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_kzra_stonebhop.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_kzra_stonebhop.webp"
+  },
+  {
     "name": "kz_kzra_stoneishbhop",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_kzra_stoneishbhop.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_kzra_stoneishbhop.jpg",
