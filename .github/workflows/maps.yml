@@ -3,6 +3,8 @@ name: maps
 on:
   push:
     branches: [ master ]
+    paths:
+    - 'images/**'
 
 jobs:
   build-deploy:
@@ -19,7 +21,7 @@ jobs:
       run: ./build.sh
 
     - name: Deploy to Public branch
-      uses: JamesIves/github-pages-deploy-action@3.5.9
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: public
