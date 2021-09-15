@@ -3,8 +3,6 @@ name: maps
 on:
   push:
     branches: [ master ]
-    paths:
-    - 'images/**'
 
 jobs:
   build-deploy:
