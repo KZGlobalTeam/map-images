@@ -3241,6 +3241,13 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_life_final.webp"
   },
   {
+    "name": "kz_linoleum",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_linoleum.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_linoleum.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_linoleum.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_linoleum.webp"
+  },
+  {
     "name": "kz_lionharder",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_lionharder.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_lionharder.jpg",
@@ -3253,13 +3260,6 @@
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_lionheart.jpg",
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_lionheart.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_lionheart.webp"
-  },
-  {
-    "name": "kz_lionleum",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_lionleum.jpg",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_lionleum.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_lionleum.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_lionleum.webp"
   },
   {
     "name": "kz_list_gnida_v2",
