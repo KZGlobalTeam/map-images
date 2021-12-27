@@ -4900,6 +4900,13 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_sp1_whiteblocks.webp"
   },
   {
+    "name": "kz_sp1_xmas2021",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_sp1_xmas2021.jpg",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_sp1_xmas2021.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_sp1_xmas2021.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/kz_sp1_xmas2021.webp"
+  },
+  {
     "name": "kz_spaceladders_v2",
     "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_spaceladders_v2.jpg",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_spaceladders_v2.jpg",
