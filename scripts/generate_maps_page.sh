@@ -1,7 +1,6 @@
 #!/bin/bash
 
 OUTPUT="./public/README.md"
-PUBLIC_PATH="https://github.com/KZGlobalTeam/map-images/raw/public"
 
 append_md () {
     echo "$1" >> $OUTPUT
@@ -23,7 +22,7 @@ shopt -s nocaseglob
 for file in ./public/thumbnails/*.{jpg,jpeg,png,gif}
 do
     name=$(basename -- "$file")
-    append_md "|${name%.*}|![$name]($PUBLIC_PATH/webp/thumb/${name%.*}.webp)|[image]($PUBLIC_PATH/images/$name)|[medium]($PUBLIC_PATH/mediums/$name)|[thumb]($PUBLIC_PATH/thumbnails/$name)|[webp]($PUBLIC_PATH/webp/${name%.*}.webp)|[medium]($PUBLIC_PATH/webp/medium/${name%.*}.webp)|[thumb]($PUBLIC_PATH/webp/thumb/${name%.*}.webp)|"
+    append_md "|${name%.*}|![$name](webp/thumb/${name%.*}.webp)|[image](images/$name)|[medium](mediums/$name)|[thumb](thumbnails/$name)|[webp](webp/${name%.*}.webp)|[medium](webp/medium/${name%.*}.webp)|[thumb](webp/thumb/${name%.*}.webp)|"
 done
 
 shopt -u nullglob
