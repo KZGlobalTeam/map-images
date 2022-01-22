@@ -20,12 +20,15 @@ do
     name=$(basename -- "$file")
     STR+="{"
     STR+="\"name\": \"${name%.*}\","
+    STR+="\"medium\": \"$PUBLIC_PATH/mediums/$name\","
     STR+="\"thumb\": \"$PUBLIC_PATH/thumbnails/$name\","
     STR+="\"src\": \"$PUBLIC_PATH/images/$name\","
     STR+="\"webp\": \"$PUBLIC_PATH/webp/${name%.*}.webp\","
+    STR+="\"webp_medium\": \"$PUBLIC_PATH/webp/medium/${name%.*}.webp\","
     STR+="\"webp_thumb\": \"$PUBLIC_PATH/webp/thumb/${name%.*}.webp\""
     STR+="},"
 done
+
 STR=${STR::-1}
 STR+="]"
 
