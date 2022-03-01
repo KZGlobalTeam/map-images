@@ -1,0 +1,41 @@
+name: Build images
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - "images/**"
+
+  workflow_dispatch:
+    inputs:
+      maps:
+        default: ""
+        required: false
+        description: "Re-generate given maps (or empty for all)"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install GraphicsMagick
+      run: |
+        sudo apt-get -y update
+        sudo apt-get -y install graphicsmagick
+
+    - name: Generate Images
+      uses: ./action
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        src_dir: images
+        build_dir: public
+
+    - name: Deploy to Public branch
+      uses: JamesIves/github-pages-deploy-action@4.1.8
+      with:
+        clean: false
+        branch: public
+        folder: public
