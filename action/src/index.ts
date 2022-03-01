@@ -114,6 +114,8 @@ export const run = async () => {
 };
 
 run().catch((err) => {
-  console.error(err);
-  core.setFailed(err);
+  const errMsg = err?.message ?? "Unknown error";
+
+  console.error(errMsg);
+  core.setFailed(`Failed building images: ${errMsg}`);
 });
