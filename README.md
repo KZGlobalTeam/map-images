@@ -1,24 +1,41 @@
-# MAP IMAGES
-> Thanks to Ocelot, Bacon, Mark, Syuks for providing images
+# KZ Map Images
 
-Actual map images will be located in the [images](./images) folder.
+Images for global KZ maps available in the following:
+- Full (1920x1080) - JPG/WEBP
+- Medium (512x288) - JPG/WEBP
+- Thumbnail (200x113) - JPG/WEBP
 
-Various formats of the images will be available in the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch (including the raw images)
+Images in the [source directory](./images) are used to build the formats and variants, prefer uploading an image that's as high quality as possible.
 
 ## Usage
 
-As stated above, the images you would likely use the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch of this repository.
+Generated images are in the [public](https://github.com/KZGlobalTeam/map-images/tree/public) branch.  
+This repository is also hosted on [GitHub Pages](https://kzglobalteam.github.io/map-images/).
 
-That branch provides 2 JSON files (formatted and minified) consisting of all map links.
+The following are available:
+- `maps.json` and `maps.min.json` - A JSON file containing all the images and their urls.
+- `images` - Directory where `full` JPG images are generated.
+- `mediums` - Directory where `medium` JPG images are generated.
+- `thumbnails` - Directory where `thumbnail` JPG images are generated.
+- `webp` - Directory where `full` WEBP images are generated.
+- `webp/medium` - Directory where `medium` WEBP images are generated.
+- `webp/thumb` - Directory where `thumbnail` WEBP images are generated.
 
-For example: https://github.com/KZGlobalTeam/map-images/raw/public/maps.min.json
+## Examples
 
-You can also play with the URL to simply append the map name for the image: 
+#### I want to use full- sized kz_wetbricks in WEBP format
+- https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_wetbricks.webp
 
-`https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumb/bkz_apricity_v3.webp`
+#### I want to use medium- sized bkz_apricity_v3 in JPG format
+- https://github.com/KZGlobalTeam/map-images/raw/public/mediums/bkz_apricity_v3.jpg
+
+#### I want to retrieve all the map images and their urls as JSON
+- https://github.com/KZGlobalTeam/map-images/raw/public/maps.json
+- https://github.com/KZGlobalTeam/map-images/raw/public/maps.min.json
 
 ## Contributing
-If you would like to add missing map images
-1. Fork this repo
-2. You can upload files directly to the `images` folder in your repo, or clone the repo and commit+push your changes
-2. Create a pull request from your repo to this repo
+If you would like to add missing map images, follow the steps:
+1. [Fork this repository](https://github.com/KZGlobalTeam/map-images/fork).
+2. Upload the images to the `images` directory in your repository.
+3. Commit and push your changes.
+4. Create a pull request from your repository to here.
