@@ -5,7 +5,7 @@ Images for global KZ maps available in the following:
 - Medium (512x288) - JPG/WEBP
 - Thumbnail (200x113) - JPG/WEBP
 
-Images in the [source directory](./images) are used to build the formats and variants, prefer uploading an image that's as high quality as possible.
+Images in the [source directory](./images) are used to build the variants, high-quality images are preferred.
 
 ## Usage
 
