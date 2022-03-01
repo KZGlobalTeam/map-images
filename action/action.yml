@@ -1,0 +1,18 @@
+name: "Map Images Action"
+author: "Sikari"
+description: "Converts images to certain sizes"
+
+inputs:
+  token:
+    required: true
+    description: "GitHub token"
+  src_dir:
+    required: true
+    description: "Folder where source images are"
+  build_dir:
+    required: true
+    description: "Folder where build files are placed into"
+
+runs:
+  using: "node16"
+  main: "dist/index.js"
