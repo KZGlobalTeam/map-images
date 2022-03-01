@@ -7,5 +7,6 @@
     "strict": true,
     "noImplicitAny": true,
   },
+
   "exclude": ["node_modules"]
 }
