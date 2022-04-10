@@ -12,7 +12,7 @@ exports.validEvents = ["push", "workflow_dispatch"];
 exports.validExtensions = [".jpg", ".jpeg", ".webp"];
 // Statuses used to trigger removal/generation
 exports.removalStatuses = ["removed"];
-exports.generateStatuses = ["added", "changed", "modified"];
+exports.generateStatuses = ["added", "changed", "modified", "renamed"];
 
 
 /***/ }),

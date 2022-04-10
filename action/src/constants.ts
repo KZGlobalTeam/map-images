@@ -5,4 +5,4 @@ export const validExtensions = [".jpg", ".jpeg", ".webp"];
 
 // Statuses used to trigger removal/generation
 export const removalStatuses: FileStatus[] = ["removed"];
-export const generateStatuses: FileStatus[] = ["added", "changed", "modified"];
+export const generateStatuses: FileStatus[] = ["added", "changed", "modified", "renamed"];
