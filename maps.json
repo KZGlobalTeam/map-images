@@ -4020,6 +4020,16 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_hitech.webp"
   },
   {
+    "name": "kz_hoist",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_hoist.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_hoist.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_hoist.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_hoist.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_hoist.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_hoist.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_hoist.webp"
+  },
+  {
     "name": "kz_holdmyhand",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_holdmyhand.jpg",
     "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_holdmyhand.jpg",
@@ -4298,6 +4308,16 @@
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_kat_colorblind.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_kat_colorblind.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_kat_colorblind.webp"
+  },
+  {
+    "name": "kz_kays",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_kays.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_kays.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_kays.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_kays.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_kays.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_kays.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_kays.webp"
   },
   {
     "name": "kz_kingsbay_v2",
