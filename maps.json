@@ -8870,6 +8870,16 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_xmas2020.webp"
   },
   {
+    "name": "kz_xmas2022",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_xmas2022.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_xmas2022.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_xmas2022.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_xmas2022.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_xmas2022.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_xmas2022.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_xmas2022.webp"
+  },
+  {
     "name": "kz_xtremeblock_v2",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_xtremeblock_v2.jpg",
     "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_xtremeblock_v2.jpg",
