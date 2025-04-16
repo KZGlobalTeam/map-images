@@ -7590,6 +7590,16 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_silk.webp"
   },
   {
+    "name": "kz_silk_e",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_silk_e.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_silk_e.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_silk_e.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_silk_e.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_silk_e.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_silk_e.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_silk_e.webp"
+  },
+  {
     "name": "kz_simple_sp",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_simple_sp.jpg",
     "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_simple_sp.jpg",
@@ -7768,6 +7778,16 @@
     "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_isnt_kz.webp",
     "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_slide_isnt_kz.webp",
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_slide_isnt_kz.webp"
+  },
+  {
+    "name": "kz_slide_isnt_kz_f",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_slide_isnt_kz_f.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_slide_isnt_kz_f.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_slide_isnt_kz_f.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_slide_isnt_kz_f.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_slide_isnt_kz_f.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_slide_isnt_kz_f.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_slide_isnt_kz_f.webp"
   },
   {
     "name": "kz_slide_kissa",
