@@ -10110,6 +10110,16 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/vnl_sewage.webp"
   },
   {
+    "name": "vnl_sewer",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/vnl_sewer.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/vnl_sewer.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/vnl_sewer.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/vnl_sewer.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/vnl_sewer.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/vnl_sewer.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/vnl_sewer.webp"
+  },
+  {
     "name": "vnl_sewerage",
     "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/vnl_sewerage.jpg",
     "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/vnl_sewerage.jpg",
