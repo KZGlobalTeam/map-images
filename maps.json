@@ -6760,14 +6760,14 @@
     "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_overencumbered.webp"
   },
   {
-    "name": "kz_overencumbered_fix ",
-    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_overencumbered_fix%20.jpg",
-    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_overencumbered_fix%20.jpg",
-    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_overencumbered_fix%20.jpg",
-    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_overencumbered_fix%20.jpg",
-    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_overencumbered_fix%20.webp",
-    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_overencumbered_fix%20.webp",
-    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_overencumbered_fix%20.webp"
+    "name": "kz_overencumbered_fix",
+    "src": "https://github.com/KZGlobalTeam/map-images/raw/master/images/kz_overencumbered_fix.jpg",
+    "full": "https://github.com/KZGlobalTeam/map-images/raw/public/images/kz_overencumbered_fix.jpg",
+    "medium": "https://github.com/KZGlobalTeam/map-images/raw/public/mediums/kz_overencumbered_fix.jpg",
+    "thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/thumbnails/kz_overencumbered_fix.jpg",
+    "webp": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/kz_overencumbered_fix.webp",
+    "webp_medium": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/mediums/kz_overencumbered_fix.webp",
+    "webp_thumb": "https://github.com/KZGlobalTeam/map-images/raw/public/webp/thumbs/kz_overencumbered_fix.webp"
   },
   {
     "name": "kz_overgrowth",
